@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="common"
+  id="myeclipse.1460131268216"
+  context-root="/common"
+  j2ee-spec="6.0"
+  archive="common.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
